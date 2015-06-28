@@ -9,3 +9,5 @@
 3.创建RoundedBitmapDrawable对象
 
 4.设置圆角半径为正方形边长的一半
+
+![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
