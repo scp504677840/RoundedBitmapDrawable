@@ -10,4 +10,6 @@
 
 4.设置圆角半径为正方形边长的一半
 
+##效果图如下：
+
 ![image](https://github.com/scp504677840/RoundedBitmapDrawable/blob/master/res/drawable-hdpi/roundedbitmapdrawable.png)
